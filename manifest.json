@@ -1,0 +1,27 @@
+{
+"short_name": "MediasetPlay",
+"name": "MediasetPlay",
+"icons": [
+{
+"src": "https://d4jekgrflty99.cloudfront.net/assets/logo192.png",
+"type": "image/png",
+"sizes": "192x192"
+},
+{
+"src": "https://d4jekgrflty99.cloudfront.net/assets/logo512.png",
+"type": "image/png",
+"sizes": "512x512"
+}
+],
+"prefer_related_applications": true,
+"related_applications": [
+{
+"platform": "play",
+"id": "it.fabbricadigitale.android.videomediaset"
+}
+],
+"start_url": "/",
+"display": "standalone",
+"theme_color": "#e8265e",
+"background_color": "#181f25"
+}
