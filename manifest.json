@@ -19,9 +19,5 @@
 "platform": "play",
 "id": "it.fabbricadigitale.android.videomediaset"
 }
-],
-"start_url": "/",
-"display": "standalone",
-"theme_color": "#e8265e",
-"background_color": "#181f25"
+]
 }
