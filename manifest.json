@@ -1,22 +1,23 @@
 {
-"short_name": "MediasetPlay",
-"name": "MediasetPlay",
-"icons": [
-{
-"src": "https://d4jekgrflty99.cloudfront.net/assets/logo192.png",
-"type": "image/png",
-"sizes": "192x192"
-},
-{
-"src": "https://d4jekgrflty99.cloudfront.net/assets/logo512.png",
-"type": "image/png",
-"sizes": "512x512"
+  "short_name": "MediasetPlay",
+  "name": "MediasetPlay",
+  "icons": [
+    {
+    "src": "https://d4jekgrflty99.cloudfront.net/assets/logo192.png",
+    "type": "image/png",
+    "sizes": "192x192"
+    },
+    {
+    "src": "https://d4jekgrflty99.cloudfront.net/assets/logo512.png",
+    "type": "image/png",
+    "sizes": "512x512"
+    }
+    ],
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.google.samples.apps.iosched"
+    }
+  ]
 }
-],
-"prefer_related_applications": true,
-"related_applications": [
-  {
-    "platform": "play",
-    "id": "com.google.samples.apps.iosched"
-  }
-]
